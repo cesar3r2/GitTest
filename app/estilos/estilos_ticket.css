@@ -1,0 +1,48 @@
+/* CSS Document */
+
+* {
+    margin: 0;
+  }
+
+body {
+    margin-top: 5pt;
+    margin-left: 5pt;
+    padding: 0;
+    background: #FFFFFF;
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    color: #000;
+}
+
+.txtR8{
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    color: #000;
+}
+
+.txtR9{
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 9pt;
+    color: #000;
+}
+
+.txtR10{
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 10pt;
+    color: #000;
+}
+.txtR11{
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 11pt;
+    color: #000;
+}
+.txtR12{
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 12pt;
+    color: #000;
+}
+.txtR13{
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 13pt;
+    color: #000;
+}

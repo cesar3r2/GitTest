@@ -1,0 +1,43 @@
+.box {
+	width: 200px;
+	height: 100%;
+}
+
+.popbox {
+    margin:0px auto;
+    position: fixed;
+	bottom: 28px;
+	right: 36px;
+}
+
+.collapseNot {
+	position:relative; 
+}
+
+.open {
+	background: #FF9;
+    border:solid 1px #8ADE3C;
+    border-radius: 5px 5px 0 0;
+    box-shadow: 0px 0px 3px #CCC;
+    padding:5px;
+	position:fixed;
+	right:70px;
+	bottom:28px;
+}
+
+.box {
+    display:block;
+    display:none;
+    background: #FFC;
+    border:solid 1px #BBBBBB;
+    border-radius:5px 5px 0px 0px;
+    box-shadow:0px 0px 2px #999;
+	padding: 8px;
+}
+
+.box a.close {
+    color:red;
+    font-size:12px;
+    font-family:Tahoma, Geneva, sans-serif;
+    text-decoration:underline;
+}
