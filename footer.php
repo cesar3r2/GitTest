@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6">
-					&copy; 2016. <a href="#">Parley360</a>. Todos los derechos reservados.
+					&copy; 2018. <a href="#">Parley360</a>. Todos los derechos reservados.
 				</div>
 				<div class="col-sm-6">
 					<ul class="pull-right">
