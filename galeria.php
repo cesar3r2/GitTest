@@ -24,7 +24,7 @@
                             <div class="col-sm-12">
                                 <div class="carousel-content center centered">
                                     <h2 class="boxed animation animated-item-1">Apuesta FÁCIL y cobra SEGURO</h2>
-                                    <p class="boxed animation animated-item-2">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                                    <p class="boxed animation animated-item-2">Queremos colocar este texto para que se entienda y no como dice la plantilla.</p>
                                 </div>
                             </div>
                         </div>
